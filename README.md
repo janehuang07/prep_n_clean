@@ -1,8 +1,7 @@
 # prep_n_clean
+# Fully reviewed code in "prep_n_cleanRvjh1.R"
 
-# Lines 1-1643 fully reviewed and revised except for 2 sections:
-
-# Problems:
+# Remaining problems:
 
 # 1) event_crime_qual (Lines 1162-1216)
 # # for 20 article news event_crime_qual wasn't registered.
@@ -12,6 +11,10 @@
 # 2) event_attackerid (lines 1477-1513)
 # # for 47 article news event_attackerid wasn't registered.
 # # only 46 of those 47 can/have been identified
+
+# 3) line 1971
+
+# 4) Modes?
 
 # Major revisions:
 
@@ -30,8 +33,3 @@
 
 # Other Notes:
 # all of the "hard-coded" lines that remain are coded as such because there is no other option
-
-
-
-
-
